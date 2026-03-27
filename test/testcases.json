@@ -1,0 +1,12 @@
+[
+  {
+    "test_case": "Add Student",
+    "input": "Student details",
+    "expected_output": "Student added successfully"
+  },
+  {
+    "test_case": "View Student",
+    "input": "Student ID",
+    "expected_output": "Display student details"
+  }
+]

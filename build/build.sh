@@ -1,0 +1,1 @@
+echo "Building Student Management System..."
